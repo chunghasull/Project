@@ -11,7 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[home]]</span> to get started on your exploration.
 </p>
 
-##### **퀸메이커**의 디지털 가든입니다 :)
+##### 퀸메이커의 디지털 가든입니다 :)
 
 #### 공학
 - 전기, 기계, 철도 등
