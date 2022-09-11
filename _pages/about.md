@@ -5,10 +5,9 @@ permalink: /about
 ---
 
 # 김청하에 죽고, 김청하에 살으리.
- 
- 
-> https://chunghasull0209.carrd.co/
-
+---
+> [chunghasull0209.carrd.co](https://chunghasull0209.carrd.co)
+---
 _Korean · College student_ 
 ~~collegian~~
 _97.09.01 · he/him · INFJ_  
