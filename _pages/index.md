@@ -5,7 +5,9 @@ id: home
 permalink: /
 ---
 
-# 💟 Welcome! 환영해요! 💟
+# Welcome! 환영해요! 💟
+
+![[main.jpeg]]
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[home]]</span> to get started on your exploration.
@@ -18,11 +20,11 @@ permalink: /
 
 #### 인문학
 - 사회심리, 인지심리
-- 성(性)
+- 성(性) (미정)
 - 메모(제텔카스텐)
 
 ### 예체능
-- 한국문화
+- 한국문화 (미정)
 
 <style>
   .wrapper {
