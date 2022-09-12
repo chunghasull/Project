@@ -2,7 +2,7 @@
 title: home
 ---
 
-![[thumbnail.jpg]]
+<img src="/assets/thumbnail.jpg"/>
 
 ## 환영합니다! 퀸메이커의 디지털 가든입니다.
 ### Welcome! Queenmaker's Digital Garden
@@ -14,6 +14,6 @@ title: home
 #### 인문학
 - 
 
-### 예체능
+#### 예체능
 - 
 

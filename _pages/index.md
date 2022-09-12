@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 환영해요! 💟
 
-![[main.jpeg]]
+<img src="/assets/main.jpeg"/>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[home]]</span> to get started on your exploration.
@@ -23,7 +23,7 @@ permalink: /
 - 성(性) (미정)
 - 메모(제텔카스텐)
 
-### 예체능
+#### 예체능
 - 한국문화 (미정)
 
 <style>
